@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<h3 align="center">Passionate about full stack development, curious and exploring about data science, ML, and AI</h3>
+<h3 align="center">A passionate full stack developer with a deep interest in exploring data science, machine learning, and artificial intelligence. Constantly seeking to bridge the gap between technology and innovation, I thrive on learning and applying new techniques to create impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk0380&label=Profile%20views&color=0e75b6&style=flat" alt="mk0380" /> </p>
 
